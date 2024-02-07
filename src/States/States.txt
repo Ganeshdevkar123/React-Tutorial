@@ -1,0 +1,5 @@
+State is mannaged within the components.
+Variables declared in the function body.
+State can be changed.
+useState Hook- functional components.
+this.state- class components.

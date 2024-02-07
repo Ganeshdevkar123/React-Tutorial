@@ -1,0 +1,1 @@
+Hooks are new feature praposal that lets you use state and other react features without using class.

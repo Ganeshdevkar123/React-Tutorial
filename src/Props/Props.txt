@@ -1,0 +1,5 @@
+Props get passed to the Components.
+function parameters.
+props are immutable.
+props- functional components.
+this.props- class components.

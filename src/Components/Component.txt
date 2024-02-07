@@ -1,0 +1,8 @@
+COMPONENTS-
+
+Components describe a part of the user interface.
+They are re-usable and can be nested inside other Components.
+
+Two Types-
+1> Class (Stateful) Components.
+2> Functional (Stateless) Components.
